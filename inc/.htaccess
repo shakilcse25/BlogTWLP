@@ -1,0 +1,3 @@
+#START Security: Disallow access to folders
+Options -Indexes
+# END Security

@@ -1,0 +1,50 @@
+.headersection {
+    background: #ff0000 none repeat scroll 0 0;
+    color: #fff;
+}
+
+.navsection {
+    background: none repeat scroll 0 0 rgb(99, 9, 9);
+    min-height: 38px;
+}
+
+.icon a {
+    background: rgb(99, 9, 9) none repeat scroll 0 0;
+}
+
+input[type="submit"] {
+    background: rgb(99, 9, 9) none repeat scroll 0 0;
+}
+
+.searchbtn input[type="text"] {
+    background: rgb(221, 209, 209);
+}
+
+.maincontent {
+    background: #e2a0a04d none repeat scroll 0 0;
+}
+
+.samepost h2 a {
+    color: rgb(66, 22, 22);
+}
+
+.pagination a {
+    text-decoration: none;
+    background-color: rgb(216, 83, 83) !important;
+}
+
+.sidebar {
+    background: #e2a0a04d none repeat scroll 0 0;
+}
+
+.samesidebar h2 {
+    background: rgb(146, 5, 5) none repeat scroll 0 0;
+    color: #fff;
+}
+
+.footersection {
+    background: rgb(65, 8, 8);
+}
+.footersection p{
+    color:white;
+}

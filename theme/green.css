@@ -1,0 +1,37 @@
+.headersection {
+    background: #456d27 none repeat scroll 0 0;
+    color: #fff;
+}
+.navsection {
+    background: none repeat scroll 0 0 #456D6A;
+    min-height: 38px;
+}
+.icon a {
+    background: #456D97 none repeat scroll 0 0;
+}
+input[type="submit"] {
+    background: #456DD3 none repeat scroll 0 0;
+}
+.searchbtn input[type="text"] {
+    background: antiquewhite;
+}
+.maincontent {
+    background: #456d274d none repeat scroll 0 0;
+}
+.samepost h2 a {
+    color: darkgreen;
+}
+.pagination a {
+    text-decoration: none;
+    background-color: darkseagreen !important;
+}
+.sidebar {
+    background: #456d274d none repeat scroll 0 0;
+}
+.samesidebar h2 {
+    background: darkgreen none repeat scroll 0 0;
+    color: #fff;
+}
+.footersection {
+    background: seagreen;
+}
